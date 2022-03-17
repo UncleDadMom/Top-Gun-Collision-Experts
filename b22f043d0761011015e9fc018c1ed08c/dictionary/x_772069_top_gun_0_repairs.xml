@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Repairs" max_length="40" name="x_772069_top_gun_0_repairs" sizeclass="0" type="collection">
+        <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
+        <element label="Front left" max_length="40" name="front_left" type="user_image"/>
+    </element>
+</database>

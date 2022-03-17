@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Customers" max_length="40" name="x_772069_top_gun_0_customers" sizeclass="1" type="collection">
+        <element label="Address" max_length="151" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="sedan" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Sedan" sequence="0" value="sedan"/>
+                <element inactive_on_update="false" label="Convertible" sequence="1" value="convertible"/>
+                <element inactive_on_update="false" label="SUV" sequence="2" value="suv"/>
+                <element inactive_on_update="false" label="Sport" sequence="3" value="sport"/>
+                <element inactive_on_update="false" label="Coupe" sequence="4" value="coupe"/>
+                <element inactive_on_update="false" label="Minivan" sequence="5" value="minivan"/>
+                <element inactive_on_update="false" label="Van" sequence="6" value="van"/>
+                <element inactive_on_update="false" label="Pickup truck" sequence="7" value="pickup truck"/>
+                <element inactive_on_update="false" label="Hatchback" sequence="8" value="hatchback"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Claim #" max_length="40" name="claim" type="string"/>
+        <element calculation="if (current.first_name.nil() &amp;&amp; current.last_name.nil() &amp;&amp; !current.name.nil()) {&#13;&#10;  var names = current.name.toString().split(&quot; &quot;);&#13;&#10;  if (names.length &gt; 1) {&#13;&#10;    current.first_name = names[0];&#13;&#10;    names.shift();&#13;&#10;    current.last_name = names.join(&quot; &quot;);&#13;&#10;  } else &#13;&#10;    current.last_name = names[0];&#13;&#10;}  &#13;&#10;&#13;&#10;if(current.first_name.nil()) { &#13;&#10;    current.last_name; &#13;&#10;  } else { &#13;&#10;    current.first_name + ' ' + current.last_name;&#13;&#10;  }" display="true" label="Customer" mandatory="true" max_length="151" name="customer_name" type="string" virtual="true"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Home Phone No." max_length="40" name="home" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" dependent="payment" dependent_on_field="payment" label="Insurance Company" max_length="40" name="insurance" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" dependent="insurance" dependent_on_field="insurance" label="Insurance Adjuster Contact" max_length="40" name="insurance_agent" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Preferred Contact #" max_length="40" name="number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="your insurance" label="Payment Source" max_length="40" name="payment" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Your insurance" sequence="0" value="your insurance"/>
+                <element inactive_on_update="false" label="Their insurance" sequence="1" value="their insurance"/>
+                <element inactive_on_update="false" label="Out of Pocket" sequence="2" value="out of pocket"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="md" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Alabama" sequence="0" value="al"/>
+                <element inactive_on_update="false" label="Arizona" sequence="1" value="az"/>
+                <element inactive_on_update="false" label="Arkansas" sequence="2" value="ar"/>
+                <element inactive_on_update="false" label="California" sequence="3" value="ca"/>
+                <element inactive_on_update="false" label="Colorado" sequence="4" value="co"/>
+                <element inactive_on_update="false" label="Connecticut" sequence="5" value="ct"/>
+                <element inactive_on_update="false" label="Delaware" sequence="6" value="de"/>
+                <element inactive_on_update="false" label="District of Columbia" sequence="7" value="dc"/>
+                <element inactive_on_update="false" label="Florida" sequence="8" value="fl"/>
+                <element inactive_on_update="false" label="Georgia" sequence="9" value="ga"/>
+                <element inactive_on_update="false" label="Kansas" sequence="10" value="ks"/>
+                <element inactive_on_update="false" label="Kentucky" sequence="11" value="ky"/>
+                <element inactive_on_update="false" label="Maryland" sequence="12" value="md"/>
+                <element inactive_on_update="false" label="Louisiana" sequence="13" value="la"/>
+                <element inactive_on_update="false" label="Iowa" sequence="14" value="ia"/>
+                <element inactive_on_update="false" label="Idaho" sequence="15" value="id"/>
+                <element inactive_on_update="false" label="Massachusetts" sequence="16" value="ma"/>
+                <element inactive_on_update="false" label="Michigan" sequence="17" value="mi"/>
+                <element inactive_on_update="false" label="Minnesota" sequence="18" value="mn"/>
+                <element inactive_on_update="false" label="Mississippi" sequence="19" value="ms"/>
+                <element inactive_on_update="false" label="Missouri" sequence="20" value="mo"/>
+                <element inactive_on_update="false" label="Montana" sequence="21" value="mt"/>
+                <element inactive_on_update="false" label="Nebraska" sequence="22" value="ne"/>
+                <element inactive_on_update="false" label="Nevada" sequence="23" value="nv"/>
+                <element inactive_on_update="false" label="New Hampshire" sequence="24" value="nh"/>
+                <element inactive_on_update="false" label="New Jersey" sequence="25" value="nj"/>
+                <element inactive_on_update="false" label="New Mexico" sequence="26" value="nm"/>
+                <element inactive_on_update="false" label="New York" sequence="27" value="ny"/>
+                <element inactive_on_update="false" label="North Carolina" sequence="28" value="nc"/>
+                <element inactive_on_update="false" label="North Dakota" sequence="29" value="nd"/>
+                <element inactive_on_update="false" label="Ohio" sequence="30" value="oh"/>
+                <element inactive_on_update="false" label="Oklahoma" sequence="31" value="ok"/>
+                <element inactive_on_update="false" label="Oregon" sequence="32" value="or"/>
+                <element inactive_on_update="false" label="Pennsylvania" sequence="33" value="pa"/>
+                <element inactive_on_update="false" label="Rhode Island" sequence="34" value="ri"/>
+                <element inactive_on_update="false" label="South Carolina" sequence="35" value="sc"/>
+                <element inactive_on_update="false" label="South Dakota" sequence="36" value="sd"/>
+                <element inactive_on_update="false" label="Tennessee" sequence="37" value="tn"/>
+                <element inactive_on_update="false" label="Texas" sequence="38" value="tx"/>
+                <element inactive_on_update="false" label="Utah" sequence="39" value="ut"/>
+                <element inactive_on_update="false" label="Vermont" sequence="40" value="vt"/>
+                <element inactive_on_update="false" label="Virginia" sequence="41" value="va"/>
+                <element inactive_on_update="false" label="Washington" sequence="42" value="wa"/>
+                <element inactive_on_update="false" label="West Virginia" sequence="43" value="wv"/>
+                <element inactive_on_update="false" label="Wisconsin" sequence="44" value="wi"/>
+                <element inactive_on_update="false" label="Wyoming" sequence="45" value="wy"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="License plate #" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VIN" max_length="17" name="vin" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+        <element label="Zipcode" max_length="40" name="zipcode" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

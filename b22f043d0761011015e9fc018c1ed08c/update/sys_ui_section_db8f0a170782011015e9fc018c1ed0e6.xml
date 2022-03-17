@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="db8f0a170782011015e9fc018c1ed0e6" sys_domain="global" table="x_772069_top_gun_0_car_database" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>make</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-10 18:36:05</sys_created_on>
+            <sys_id>df8f86970782011015e9fc018c1ed0fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_car_database" sys_domain="global" view="Default view">db8f0a170782011015e9fc018c1ed0e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-10 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-10 18:37:04</sys_created_on>
+            <sys_id>a9cf4a970782011015e9fc018c1ed0a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_car_database" sys_domain="global" view="Default view">db8f0a170782011015e9fc018c1ed0e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-10 18:37:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_772069_top_gun_0_car_database</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-10 18:36:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db8f0a170782011015e9fc018c1ed0e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_772069_top_gun_0_car_database</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+            <sys_update_name>sys_ui_section_db8f0a170782011015e9fc018c1ed0e6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-10 18:36:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
