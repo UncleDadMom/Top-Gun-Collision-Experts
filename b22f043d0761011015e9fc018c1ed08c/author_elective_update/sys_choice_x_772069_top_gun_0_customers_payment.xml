@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="payment" table="x_772069_top_gun_0_customers" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>payment</element>
+            <name>x_772069_top_gun_0_customers</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-10 20:45:25</sys_created_on>
+            <sys_id>b12de29f07c2011015e9fc018c1ed0e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>payment</sys_name>
+            <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+            <sys_update_name>sys_choice_x_772069_top_gun_0_customers_payment</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-10 20:45:25</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>payment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Your insurance</label>
+            <language>en</language>
+            <name>x_772069_top_gun_0_customers</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-10 20:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>792de29f07c2011015e9fc018c1ed0e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-10 20:45:25</sys_updated_on>
+            <value>your insurance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>payment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Their insurance</label>
+            <language>en</language>
+            <name>x_772069_top_gun_0_customers</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-10 20:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f52de29f07c2011015e9fc018c1ed0e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-10 20:45:25</sys_updated_on>
+            <value>their insurance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>payment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Out of Pocket</label>
+            <language>en</language>
+            <name>x_772069_top_gun_0_customers</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-10 20:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>792de29f07c2011015e9fc018c1ed0ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-10 20:45:25</sys_updated_on>
+            <value>out of pocket</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

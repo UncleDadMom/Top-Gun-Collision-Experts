@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2022-03-02 19:46:52</change_date>
+        <changed_by display_value="Patrick Wu">6816f79cc0a8016401c5a33be04be441</changed_by>
+        <content display_value="Connect Spokes">379a95e80f382010310be3d1df767ed0</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-02 19:46:52</sys_created_on>
+        <sys_id>de0355fc078e411015e9fc018c1ed05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2022-03-02 19:46:52</sys_name>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_update_name>gsw_change_log_de0355fc078e411015e9fc018c1ed05a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-02 19:46:52</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>

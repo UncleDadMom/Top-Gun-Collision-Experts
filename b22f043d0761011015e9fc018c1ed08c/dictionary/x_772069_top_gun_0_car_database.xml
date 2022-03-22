@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Car Database" max_length="40" name="x_772069_top_gun_0_car_database" sizeclass="925" type="collection">
+        <element label="Manufacturer" max_length="40" name="make" type="string"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+    </element>
+</database>
