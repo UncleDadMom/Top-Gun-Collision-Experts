@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Car Database" max_length="40" name="x_772069_top_gun_0_car_database" sizeclass="925" type="collection">
-        <element label="Manufacturer" max_length="40" name="make" type="string"/>
-        <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Manufacturer" mandatory="true" max_length="40" name="make" type="string"/>
+        <element calculation="if (current.make.nil() &amp;&amp; current.model.nil() &amp;&amp; !current.make_model.nil()) {&#13;&#10;  var names = current.name.toString().split(&quot; &quot;);&#13;&#10;  if (names.length &gt; 1) {&#13;&#10;    current.make = names[0];&#13;&#10;    names.shift();&#13;&#10;    current.model = names.join(&quot; &quot;);&#13;&#10;  } else &#13;&#10;    current.model = names[0];&#13;&#10;}  &#13;&#10;&#13;&#10;if(current.make.nil()) { &#13;&#10;    current.model; &#13;&#10;  } else { &#13;&#10;    current.make + ' ' + current.model;&#13;&#10;  }" display="true" label="Make model" max_length="151" name="make_model" read_only="true" type="string" virtual="true"/>
+        <element label="Model" mandatory="true" max_length="40" name="model" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
     </element>
 </database>

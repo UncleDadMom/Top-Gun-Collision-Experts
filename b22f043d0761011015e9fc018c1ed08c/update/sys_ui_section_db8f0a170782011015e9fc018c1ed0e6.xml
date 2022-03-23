@@ -4,13 +4,13 @@
             <element>make</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-10 18:36:05</sys_created_on>
-            <sys_id>df8f86970782011015e9fc018c1ed0fc</sys_id>
+            <sys_created_on>2022-03-23 21:28:50</sys_created_on>
+            <sys_id>e0c3b5a70792011015e9fc018c1ed087</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_car_database" sys_domain="global" view="Default view">db8f0a170782011015e9fc018c1ed0e6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-10 18:36:05</sys_updated_on>
+            <sys_updated_on>2022-03-23 21:28:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,27 @@
             <element>model</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-10 18:37:04</sys_created_on>
-            <sys_id>a9cf4a970782011015e9fc018c1ed0a9</sys_id>
+            <sys_created_on>2022-03-23 21:28:50</sys_created_on>
+            <sys_id>64c3b5a70792011015e9fc018c1ed087</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_car_database" sys_domain="global" view="Default view">db8f0a170782011015e9fc018c1ed0e6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-10 18:37:04</sys_updated_on>
+            <sys_updated_on>2022-03-23 21:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>make_model</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-23 22:51:31</sys_created_on>
+            <sys_id>2ba6066707d2011015e9fc018c1ed027</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_car_database" sys_domain="global" view="Default view">db8f0a170782011015e9fc018c1ed0e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-23 22:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

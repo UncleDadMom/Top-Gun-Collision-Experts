@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Top Gun">bfc38a1f0742011015e9fc018c1ed0ee</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>List of customers' vehicles</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Repairs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_772069_top_gun_0_customer_vehicles</name>
+        <order>202</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_772069_top_gun_0.repairs_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 21:57:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bc5ab5eb0792011015e9fc018c1ed087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Vehicles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_update_name>sys_app_module_bc5ab5eb0792011015e9fc018c1ed087</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 21:57:31</sys_updated_on>
+        <timeline_page/>
+        <title>Customer Vehicles</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
