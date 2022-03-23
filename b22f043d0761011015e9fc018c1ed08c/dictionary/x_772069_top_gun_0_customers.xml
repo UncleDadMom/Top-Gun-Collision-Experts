@@ -85,8 +85,8 @@
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" label="License plate #" max_length="40" name="u_string_3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="VIN" max_length="17" name="vin" type="string"/>
-        <element label="Year" max_length="40" name="year" type="integer"/>
-        <element label="Zipcode" max_length="40" name="zipcode" type="integer"/>
+        <element label="Year" max_length="40" name="year" type="longint"/>
+        <element label="Zipcode" max_length="40" name="zipcode" type="longint"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
