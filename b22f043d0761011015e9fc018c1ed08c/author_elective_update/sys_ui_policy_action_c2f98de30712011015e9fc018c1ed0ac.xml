@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>claim</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 18:26:16</sys_created_on>
+        <sys_id>c2f98de30712011015e9fc018c1ed0ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>claim</sys_name>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c2f98de30712011015e9fc018c1ed0ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 18:26:16</sys_updated_on>
+        <table>x_772069_top_gun_0_customers</table>
+        <ui_policy display_value="Insurance Fields">e652771307c6011015e9fc018c1ed07e</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</application>
+        <file_path/>
+        <instance_id>60baa6eedb71a010f492c597059619a3</instance_id>
+        <instance_name>dev105230</instance_name>
+        <name>sys_ui_policy_action_c2f98de30712011015e9fc018c1ed0ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>claim</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-23 18:26:16</sys_created_on><sys_id>c2f98de30712011015e9fc018c1ed0ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>claim</sys_name><sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package><sys_policy/><sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope><sys_update_name>sys_ui_policy_action_c2f98de30712011015e9fc018c1ed0ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-23 18:26:16</sys_updated_on><table>x_772069_top_gun_0_customers</table><ui_policy display_value="Insurance Fields">e652771307c6011015e9fc018c1ed07e</ui_policy><visible>false</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1126018958</payload_hash>
+        <record_name>claim</record_name>
+        <reverted_from/>
+        <source>07a11b610792011015e9fc018c1ed093</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 18:26:16</sys_created_on>
+        <sys_id>16f949670712011015e9fc018c1ed0b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fb8078a160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 18:26:16</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>5ef9496776120110854d5d791c9febb1</update_guid>
+        <update_guid_history>5ef9496776120110854d5d791c9febb1:1126018958</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 02:14:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>f1848cf8bd0a44a4a0f06856209b0c41</sys_id>
+        <sys_metadata>c2f98de30712011015e9fc018c1ed0ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>claim</sys_name>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_parent display_value="Insurance Fields">e652771307c6011015e9fc018c1ed07e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_scope_delete display_value="">192ae442364a48638430672d4cf2f1e1</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_c2f98de30712011015e9fc018c1ed0ac</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_c2f98de30712011015e9fc018c1ed0ac">16f949670712011015e9fc018c1ed0b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 02:14:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

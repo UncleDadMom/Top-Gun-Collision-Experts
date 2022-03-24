@@ -9,7 +9,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Make model</column_label>
+        <column_label>Car</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -35,7 +35,7 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_772069_top_gun_0_customer_vehicles">x_772069_top_gun_0_customer_vehicles</reference>
+        <reference display_value="" name="x_772069_top_gun_0_customer_car">x_772069_top_gun_0_customer_car</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -49,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-03-23 20:32:19</sys_created_on>
         <sys_id>e0d6adeb0752011015e9fc018c1ed018</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Make model</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Car</sys_name>
         <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
         <sys_update_name>sys_dictionary_x_772069_top_gun_0_customers_make_model</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-23 23:05:50</sys_updated_on>
+        <sys_updated_on>2022-03-24 06:09:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

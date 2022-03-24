@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_772069_top_gun_0.customer_car_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>customer_car_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 05:54:26</sys_created_on>
+        <sys_id>76772baf07d6011015e9fc018c1ed065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_772069_top_gun_0.customer_car_user</sys_name>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_update_name>sys_user_role_76772baf07d6011015e9fc018c1ed065</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 05:54:26</sys_updated_on>
+    </sys_user_role>
+</record_update>

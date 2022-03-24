@@ -2,21 +2,21 @@
     <sys_ui_policy_action action="INSERT_OR_UPDATE">
         <cleared>false</cleared>
         <disabled>ignore</disabled>
-        <field>claim</field>
+        <field>insurance_agent</field>
         <mandatory>ignore</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-03-23 18:26:16</sys_created_on>
-        <sys_id>c2f98de30712011015e9fc018c1ed0ac</sys_id>
+        <sys_created_on>2022-03-24 02:17:17</sys_created_on>
+        <sys_id>39c5baab0756011015e9fc018c1ed07c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>claim</sys_name>
+        <sys_name>insurance_agent</sys_name>
         <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
-        <sys_update_name>sys_ui_policy_action_c2f98de30712011015e9fc018c1ed0ac</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_39c5baab0756011015e9fc018c1ed07c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-23 18:26:16</sys_updated_on>
-        <table>x_772069_top_gun_0_customers</table>
+        <sys_updated_on>2022-03-24 02:17:17</sys_updated_on>
+        <table>x_772069_top_gun_0_repairs</table>
         <ui_policy display_value="Insurance Fields">e652771307c6011015e9fc018c1ed07e</ui_policy>
         <visible>false</visible>
     </sys_ui_policy_action>

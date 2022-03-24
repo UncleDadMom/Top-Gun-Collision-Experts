@@ -21,140 +21,20 @@
             <element>style</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Sedan</label>
+            <label>-- New choice --</label>
             <language>en</language>
             <name>x_772069_top_gun_0_customer_vehicles</name>
-            <sequence>0</sequence>
+            <sequence/>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:43:38</sys_created_on>
+            <sys_created_on>2022-03-24 05:57:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6527f16b0792011015e9fc018c1ed0c8</sys_id>
+            <sys_id>aa28af63071a011015e9fc018c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:43:38</sys_updated_on>
-            <value>sedan</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>style</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>SUV</label>
-            <language>en</language>
-            <name>x_772069_top_gun_0_customer_vehicles</name>
-            <sequence>1</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:43:38</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6527f16b0792011015e9fc018c1ed0ca</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:43:38</sys_updated_on>
-            <value>suv</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>style</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Coupe</label>
-            <language>en</language>
-            <name>x_772069_top_gun_0_customer_vehicles</name>
-            <sequence>2</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:43:38</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6927f16b0792011015e9fc018c1ed0cb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:43:38</sys_updated_on>
-            <value>coupe</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>style</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Minivan</label>
-            <language>en</language>
-            <name>x_772069_top_gun_0_customer_vehicles</name>
-            <sequence>3</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:43:38</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6d27f16b0792011015e9fc018c1ed0cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:43:38</sys_updated_on>
-            <value>minivan</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>style</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Truck</label>
-            <language>en</language>
-            <name>x_772069_top_gun_0_customer_vehicles</name>
-            <sequence>4</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:43:39</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6127f16b0792011015e9fc018c1ed0ce</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:43:39</sys_updated_on>
-            <value>truck</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>style</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Convertible</label>
-            <language>en</language>
-            <name>x_772069_top_gun_0_customer_vehicles</name>
-            <sequence>5</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:43:39</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6527f16b0792011015e9fc018c1ed0cf</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:43:39</sys_updated_on>
-            <value>convertible</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>style</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Hatchback</label>
-            <language>en</language>
-            <name>x_772069_top_gun_0_customer_vehicles</name>
-            <sequence>6</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:43:39</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6927f16b0792011015e9fc018c1ed0d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:43:39</sys_updated_on>
-            <value>hatchback</value>
+            <sys_updated_on>2022-03-24 05:57:25</sys_updated_on>
+            <value>-- New choice --</value>
         </sys_choice>
     </sys_choice>
 </record_update>

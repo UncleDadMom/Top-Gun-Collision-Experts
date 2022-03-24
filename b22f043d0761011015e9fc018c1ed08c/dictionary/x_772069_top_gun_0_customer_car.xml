@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Customer Car" max_length="40" name="x_772069_top_gun_0_customer_car" type="collection">
+        <element label="Belongs to" mandatory="true" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
+        <element label="License plate" max_length="8" name="license_plate" type="string"/>
+        <element display="true" label="Make model" mandatory="true" max_length="32" name="make_model" reference="x_772069_top_gun_0_car_database" type="reference"/>
+        <element choice="3" default="sedan" label="Style" max_length="40" name="style" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sedan" sequence="0" value="sedan"/>
+                <element inactive_on_update="false" label="SUV" sequence="1" value="suv"/>
+                <element inactive_on_update="false" label="Coupe" sequence="2" value="coupe"/>
+                <element inactive_on_update="false" label="Minivan" sequence="3" value="minivan"/>
+                <element inactive_on_update="false" label="Truck" sequence="4" value="truck"/>
+                <element inactive_on_update="false" label="Convertible" sequence="5" value="convertible"/>
+                <element inactive_on_update="false" label="Hatchback" sequence="6" value="hatchback"/>
+            </choice>
+        </element>
+        <element label="Trim" max_length="40" name="trim" type="string"/>
+        <element label="VIN" max_length="17" name="vin" type="string"/>
+        <element attributes="format=none" label="Year" max_length="40" name="year" type="integer"/>
+        <index name="index">
+            <element name="make_model"/>
+        </index>
+        <index name="index2">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

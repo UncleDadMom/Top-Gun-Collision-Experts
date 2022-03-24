@@ -11,7 +11,7 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>Customer Vehicles</label>
+        <label>delete</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_772069_top_gun_0_customer_vehicles</name>
         <number_ref/>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-03-23 21:24:16</sys_created_on>
         <sys_id>99c1bd270792011015e9fc018c1ed03f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Customer Vehicles</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>delete</sys_name>
         <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
         <sys_update_name>sys_db_object_99c1bd270792011015e9fc018c1ed03f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-23 21:24:16</sys_updated_on>
+        <sys_updated_on>2022-03-24 06:37:05</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_772069_top_gun_0.customer_vehicles_user" name="x_772069_top_gun_0.customer_vehicles_user">21b27d270792011015e9fc018c1ed010</user_role>
         <ws_access>true</ws_access>

@@ -3,47 +3,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>customer_name</element>
-            <list_id display_value="x_772069_top_gun_0_customers" element="NULL" name="x_772069_top_gun_0_customers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">273039e30792011015e9fc018c1ed069</list_id>
+            <list_id display_value="x_772069_top_gun_0_customers" element="NULL" name="x_772069_top_gun_0_customers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8fbb6b67071a011015e9fc018c1ed0c0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:13:29</sys_created_on>
-            <sys_id>ef3039e30792011015e9fc018c1ed069</sys_id>
+            <sys_created_on>2022-03-24 06:13:01</sys_created_on>
+            <sys_id>4bbb6b67071a011015e9fc018c1ed0c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:13:29</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:13:01</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>make_model</element>
-            <list_id display_value="x_772069_top_gun_0_customers" element="NULL" name="x_772069_top_gun_0_customers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">273039e30792011015e9fc018c1ed069</list_id>
+            <element>number</element>
+            <list_id display_value="x_772069_top_gun_0_customers" element="NULL" name="x_772069_top_gun_0_customers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8fbb6b67071a011015e9fc018c1ed0c0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:13:29</sys_created_on>
-            <sys_id>633039e30792011015e9fc018c1ed06a</sys_id>
+            <sys_created_on>2022-03-24 06:13:01</sys_created_on>
+            <sys_id>cbbb6b67071a011015e9fc018c1ed0c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:13:29</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:13:01</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>number</element>
-            <list_id display_value="x_772069_top_gun_0_customers" element="NULL" name="x_772069_top_gun_0_customers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">273039e30792011015e9fc018c1ed069</list_id>
+            <element>customer_insurance</element>
+            <list_id display_value="x_772069_top_gun_0_customers" element="NULL" name="x_772069_top_gun_0_customers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8fbb6b67071a011015e9fc018c1ed0c0</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:13:29</sys_created_on>
-            <sys_id>e33039e30792011015e9fc018c1ed06a</sys_id>
+            <sys_created_on>2022-03-24 06:13:01</sys_created_on>
+            <sys_id>4fbb6b67071a011015e9fc018c1ed0c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:13:29</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:13:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>make_model</element>
+            <list_id display_value="x_772069_top_gun_0_customers" element="NULL" name="x_772069_top_gun_0_customers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8fbb6b67071a011015e9fc018c1ed0c0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 06:13:01</sys_created_on>
+            <sys_id>cfbb6b67071a011015e9fc018c1ed0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 06:13:01</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -57,10 +72,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-23 21:13:29</sys_created_on>
+            <sys_created_on>2022-03-24 06:13:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>273039e30792011015e9fc018c1ed069</sys_id>
+            <sys_id>8fbb6b67071a011015e9fc018c1ed0c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_772069_top_gun_0_customers</sys_name>
             <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
@@ -68,7 +83,7 @@
             <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
             <sys_update_name>sys_ui_list_x_772069_top_gun_0_customers_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-23 21:13:29</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:13:01</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

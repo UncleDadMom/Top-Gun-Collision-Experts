@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Repairs" max_length="40" name="x_772069_top_gun_0_repairs" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" dependent="payment" dependent_on_field="payment" label="Claim #" max_length="40" name="claim" type="string" use_dependent_field="true"/>
         <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
         <element label="Front left" max_length="40" name="front_left" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" dependent="payment" dependent_on_field="payment" label="Insurance company" max_length="40" name="insurance" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" dependent="payment" dependent_on_field="payment" label="Adjuster contact" max_length="40" name="insurance_agent" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="customer ins" label="Payment source" mandatory="true" max_length="40" name="payment" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Customer Insurance" sequence="0" value="customer ins"/>
+                <element inactive_on_update="false" label="Counterparty Insurance" sequence="1" value="counterparty insurance"/>
+                <element inactive_on_update="false" label="Out of Pocket" sequence="2" value="out of pocket"/>
+            </choice>
+        </element>
     </element>
 </database>

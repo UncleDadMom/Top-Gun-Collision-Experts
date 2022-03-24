@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_772069_top_gun_0_car_database" label="Customer Vehicles" max_length="40" name="x_772069_top_gun_0_customer_vehicles" type="collection">
-        <element display="true" label="Car" max_length="32" name="car" reference="x_772069_top_gun_0_car_database" type="reference"/>
-        <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
+    <element extends="x_772069_top_gun_0_car_database" label="delete" max_length="40" name="x_772069_top_gun_0_customer_vehicles" type="collection">
+        <element display="true" label="Car" mandatory="true" max_length="32" name="car" reference="x_772069_top_gun_0_car_database" type="reference"/>
+        <element attributes="encode_utf8=false" label="Customer" mandatory="true" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="License plate" max_length="40" name="license_plate" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="sedan" label="Style" max_length="40" name="style" type="string">
             <choice>
-                <element inactive_on_update="false" label="Sedan" sequence="0" value="sedan"/>
-                <element inactive_on_update="false" label="SUV" sequence="1" value="suv"/>
-                <element inactive_on_update="false" label="Coupe" sequence="2" value="coupe"/>
-                <element inactive_on_update="false" label="Minivan" sequence="3" value="minivan"/>
-                <element inactive_on_update="false" label="Truck" sequence="4" value="truck"/>
-                <element inactive_on_update="false" label="Convertible" sequence="5" value="convertible"/>
-                <element inactive_on_update="false" label="Hatchback" sequence="6" value="hatchback"/>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Trim" max_length="40" name="trim" type="string"/>
