@@ -1,44 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Documented Damage" section_id="e7553f6f071a011015e9fc018c1ed02f" sys_domain="global" table="x_772069_top_gun_0_repairs" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>front_left</element>
+            <element>front</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>3b553f6f071a011015e9fc018c1ed0f6</sys_id>
+            <sys_created_on>2022-03-24 07:06:31</sys_created_on>
+            <sys_id>3af7bb23075a011015e9fc018c1ed03e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Documented Damage" display_value="Documented Damage" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">e7553f6f071a011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:06:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rear</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:06:31</sys_created_on>
+            <sys_id>baf7bb23075a011015e9fc018c1ed03e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Documented Damage" display_value="Documented Damage" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">e7553f6f071a011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:06:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>bb553f6f071a011015e9fc018c1ed0f6</sys_id>
+            <sys_created_on>2022-03-24 07:06:31</sys_created_on>
+            <sys_id>3ef7bb23075a011015e9fc018c1ed03e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Documented Damage" display_value="Documented Damage" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">e7553f6f071a011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:06:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_journal_3</element>
-            <position>2</position>
+            <element>left_side</element>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>3f553f6f071a011015e9fc018c1ed0f6</sys_id>
+            <sys_created_on>2022-03-24 07:06:31</sys_created_on>
+            <sys_id>bef7bb23075a011015e9fc018c1ed03e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Documented Damage" display_value="Documented Damage" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">e7553f6f071a011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:06:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>right_side</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:06:31</sys_created_on>
+            <sys_id>32f7bb23075a011015e9fc018c1ed03f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Documented Damage" display_value="Documented Damage" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">e7553f6f071a011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:06:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

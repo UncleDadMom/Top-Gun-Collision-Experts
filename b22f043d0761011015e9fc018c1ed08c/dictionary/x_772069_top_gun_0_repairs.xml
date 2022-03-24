@@ -15,7 +15,7 @@
             </choice>
         </element>
         <element label="Rear" max_length="40" name="rear" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Parts needed" max_length="4000" name="repair_parts" type="journal"/>
         <element label="Right side" max_length="40" name="right_side" type="user_image"/>
-        <element attributes="edge_encryption_enabled=true" label="Parts needed" max_length="4000" name="u_journal_3" type="journal"/>
     </element>
 </database>

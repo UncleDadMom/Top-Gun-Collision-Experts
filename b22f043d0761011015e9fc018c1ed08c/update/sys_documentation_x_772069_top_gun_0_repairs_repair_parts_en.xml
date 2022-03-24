@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_journal_3" label="Parts needed" language="en" table="x_772069_top_gun_0_repairs">
+    <sys_documentation element="repair_parts" label="Parts needed" language="en" table="x_772069_top_gun_0_repairs">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_journal_3</element>
+            <element>repair_parts</element>
             <help/>
             <hint/>
             <label>Parts needed</label>
@@ -10,16 +10,16 @@
             <plural>Parts needed</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:06</sys_created_on>
-            <sys_id>e7553f6f071a011015e9fc018c1ed0d1</sys_id>
+            <sys_created_on>2022-03-24 07:06:31</sys_created_on>
+            <sys_id>e6f7bb23075a011015e9fc018c1ed01f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Parts needed</sys_name>
             <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
             <sys_policy/>
             <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
-            <sys_update_name>sys_documentation_x_772069_top_gun_0_repairs_u_journal_3_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_772069_top_gun_0_repairs_repair_parts_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:06</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:06:31</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

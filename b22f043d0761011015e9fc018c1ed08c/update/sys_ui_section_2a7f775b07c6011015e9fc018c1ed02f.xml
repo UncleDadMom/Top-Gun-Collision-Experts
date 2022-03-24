@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>37553f6f071a011015e9fc018c1ed0ef</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>d38973a3075a011015e9fc018c1ed030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>bb553f6f071a011015e9fc018c1ed0ef</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>578973a3075a011015e9fc018c1ed030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,195 +32,167 @@
             <element>active</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>3f553f6f071a011015e9fc018c1ed0ef</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>d78973a3075a011015e9fc018c1ed030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>repair_parts</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>bf553f6f071a011015e9fc018c1ed0ef</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>5b8973a3075a011015e9fc018c1ed030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>customer</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>33553f6f071a011015e9fc018c1ed0f0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>b3553f6f071a011015e9fc018c1ed0f0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>payment</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>37553f6f071a011015e9fc018c1ed0f0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>insurance</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>b7553f6f071a011015e9fc018c1ed0f0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>insurance_agent</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>3b553f6f071a011015e9fc018c1ed0f0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>claim</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>bb553f6f071a011015e9fc018c1ed0f0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>estimate</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>db8973a3075a011015e9fc018c1ed030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>5f8973a3075a011015e9fc018c1ed030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>df8973a3075a011015e9fc018c1ed030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>538973a3075a011015e9fc018c1ed031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer.make_model</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>d38973a3075a011015e9fc018c1ed031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>578973a3075a011015e9fc018c1ed031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:55:07</sys_created_on>
-            <sys_id>3f553f6f071a011015e9fc018c1ed0f0</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>d78973a3075a011015e9fc018c1ed031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:55:07</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>front_right</element>
+            <element>insurance</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:56:46</sys_created_on>
-            <sys_id>00c5b3af071a011015e9fc018c1ed06c</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>5b8973a3075a011015e9fc018c1ed031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:56:46</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>left_side</element>
+            <element>insurance_agent</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:59:18</sys_created_on>
-            <sys_id>f0563baf071a011015e9fc018c1ed0f4</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>db8973a3075a011015e9fc018c1ed031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:59:18</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>right_side</element>
+            <element>claim</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:59:18</sys_created_on>
-            <sys_id>8556bbaf071a011015e9fc018c1ed006</sys_id>
+            <sys_created_on>2022-03-24 07:13:23</sys_created_on>
+            <sys_id>5f8973a3075a011015e9fc018c1ed031</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:59:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>rear</element>
-            <position>14</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 06:59:18</sys_created_on>
-            <sys_id>4156bbaf071a011015e9fc018c1ed011</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 06:59:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>front</element>
-            <position>15</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 07:01:50</sys_created_on>
-            <sys_id>06e6f7ef071a011015e9fc018c1ed0ce</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">2a7f775b07c6011015e9fc018c1ed02f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 07:01:50</sys_updated_on>
+            <sys_updated_on>2022-03-24 07:13:23</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
