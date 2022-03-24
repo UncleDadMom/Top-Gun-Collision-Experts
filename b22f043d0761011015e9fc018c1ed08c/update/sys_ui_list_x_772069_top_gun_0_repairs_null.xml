@@ -3,152 +3,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>daa88f2b0796011015e9fc018c1ed018</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>bc43b32f071a011015e9fc018c1ed081</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>customer.make_model</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>52a88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>3043b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>assigned_to.name</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>short_description</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>d2a88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>b043b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>active</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>state</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>56a88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>3443b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>claim</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>work_start</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>d6a88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>b443b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>state</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>time_worked</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>5aa88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>3843b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>work_start</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>customer</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>daa88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>b843b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>time_worked</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>customer.number</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>5ea88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>3c43b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>customer</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>claim</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>dea88f2b0796011015e9fc018c1ed019</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>bc43b32f071a011015e9fc018c1ed082</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>customer.make_model.make_model</element>
-            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">56a80ba70796011015e9fc018c1ed0df</list_id>
+            <element>insurance_agent</element>
+            <list_id display_value="x_772069_top_gun_0_repairs" element="NULL" name="x_772069_top_gun_0_repairs" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f043b32f071a011015e9fc018c1ed081</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
-            <sys_id>52a88f2b0796011015e9fc018c1ed01a</sys_id>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
+            <sys_id>3043b32f071a011015e9fc018c1ed083</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -162,10 +162,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 03:39:47</sys_created_on>
+            <sys_created_on>2022-03-24 06:45:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>56a80ba70796011015e9fc018c1ed0df</sys_id>
+            <sys_id>f043b32f071a011015e9fc018c1ed081</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_772069_top_gun_0_repairs</sys_name>
             <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
@@ -173,7 +173,7 @@
             <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
             <sys_update_name>sys_ui_list_x_772069_top_gun_0_repairs_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 03:39:47</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:45:54</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

@@ -17,16 +17,30 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-24 06:55:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af553f6f071a011015e9fc018c1ed0c7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_772069_top_gun_0_repairs" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">9d10bc3b0746411015e9fc018c1ed0bb</sys_ui_form>
+            <sys_ui_section caption="Documented Damage" display_value="Documented Damage" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">e7553f6f071a011015e9fc018c1ed02f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-24 06:55:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-03-12 00:55:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1910bc3b0746411015e9fc018c1ed0bf</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_772069_top_gun_0_repairs" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">9d10bc3b0746411015e9fc018c1ed0bb</sys_ui_form>
             <sys_ui_section caption="Progress" display_value="Progress" name="x_772069_top_gun_0_repairs" sys_domain="global" view="Default view">5110bc3b0746411015e9fc018c1ed0ba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-12 00:55:56</sys_updated_on>
+            <sys_updated_on>2022-03-24 06:55:06</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_772069_top_gun_0_repairs</name>

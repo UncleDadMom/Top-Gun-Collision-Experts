@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Car Import Table" max_length="40" name="x_772069_top_gun_0_car_seed" sizeclass="0" type="collection">
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Ended" label="Ended" max_length="40" name="u_ended" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" display="true" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="40" name="u_model" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Starting Year" label="Starting Year" max_length="40" name="u_starting_year" type="string"/>
-    </element>
-</database>
