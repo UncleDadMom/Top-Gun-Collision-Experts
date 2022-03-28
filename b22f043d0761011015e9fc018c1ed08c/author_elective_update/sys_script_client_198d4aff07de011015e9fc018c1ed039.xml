@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>zipcode</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages>hey</messages>
+        <name>Zipcode validator</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+if (isLoading || newValue === '') {
+return;
+}
+
+g_form.clearMessages();
+var name = g_form.getValue('zipcode'); // Replace your ZIP Code Field
+if(name == "")
+return;
+var regex = /^[0-9-+()]*$/;
+if(!regex.test(name)) {
+g_form.showFieldMsg('zipcode', 'Please Enter valid number', 'error');// Replace your ZIP Code Field
+g_form.clearValue('zipcode');// Replace your ZIP Code Field
+}
+
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 18:03:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>198d4aff07de011015e9fc018c1ed039</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Zipcode validator</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_update_name>sys_script_client_198d4aff07de011015e9fc018c1ed039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 18:04:32</sys_updated_on>
+        <table>x_772069_top_gun_0_customers</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</application>
+        <file_path/>
+        <instance_id>60baa6eedb71a010f492c597059619a3</instance_id>
+        <instance_name>dev105230</instance_name>
+        <name>sys_script_client_198d4aff07de011015e9fc018c1ed039</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;zipcode&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages&gt;hey&lt;/messages&gt;&lt;name&gt;Zipcode validator&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+if (isLoading || newValue === '') {
+return;
+}
+
+g_form.clearMessages();
+var name = g_form.getValue('zipcode'); // Replace your ZIP Code Field
+if(name == "")
+return;
+var regex = /^[0-9-+()]*$/;
+if(!regex.test(name)) {
+g_form.showFieldMsg('zipcode', 'Please Enter valid number', 'error');// Replace your ZIP Code Field
+g_form.clearValue('zipcode');// Replace your ZIP Code Field
+}
+
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-03-24 18:03:45&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;198d4aff07de011015e9fc018c1ed039&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Zipcode validator&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0"&gt;b22f043d0761011015e9fc018c1ed08c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Top Gun Collision Experts"&gt;b22f043d0761011015e9fc018c1ed08c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_198d4aff07de011015e9fc018c1ed039&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-03-24 18:04:32&lt;/sys_updated_on&gt;&lt;table&gt;x_772069_top_gun_0_customers&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1133115576</payload_hash>
+        <record_name>Zipcode validator</record_name>
+        <reverted_from/>
+        <source>07a11b610792011015e9fc018c1ed093</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 18:04:32</sys_created_on>
+        <sys_id>259ecaff07de011015e9fc018c1ed01b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fbd1a000e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 18:04:32</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>2d9ecaffb8de011041149028dcbee01a</update_guid>
+        <update_guid_history>2d9ecaffb8de011041149028dcbee01a:1133115576,8a6e86bf12de0110a6c24a519932ed58:-823973630</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 18:09:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>c4cf401412db4742a38b8be73e2acfe4</sys_id>
+        <sys_metadata>198d4aff07de011015e9fc018c1ed039</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zipcode validator</sys_name>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_parent display_value="Customers">ac0254bd0761011015e9fc018c1ed08d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_scope_delete display_value="">192ae442364a48638430672d4cf2f1e1</sys_scope_delete>
+        <sys_update_name>sys_script_client_198d4aff07de011015e9fc018c1ed039</sys_update_name>
+        <sys_update_version display_value="sys_script_client_198d4aff07de011015e9fc018c1ed039">259ecaff07de011015e9fc018c1ed01b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 18:09:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

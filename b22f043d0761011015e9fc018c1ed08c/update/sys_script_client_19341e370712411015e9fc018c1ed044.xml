@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Opens new customer car form after creating new customer</description>
+        <field>address</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Guide to customer car</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+
+    if (g_form.isNewRecord()) {
+        // alert('New customer added, now please go to Input Customer Car to enter vehicle information');
+     
+        g_navigation.openPopup('https://dev105230.service-now.com/x_772069_top_gun_0_customer_car.do?sys_id=-1&sys_is_list=true&sys_target=x_772069_top_gun_0_customer_car&sysparm_checked_items=&sysparm_fixed_query=&sysparm_group_sort=&sysparm_list_css=&sysparm_query=&sysparm_referring_url=x_772069_top_gun_0_customer_car_list.do&sysparm_target=&sysparm_view=', 'New Car Form');
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 18:31:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>19341e370712411015e9fc018c1ed044</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Guide to customer car</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_update_name>sys_script_client_19341e370712411015e9fc018c1ed044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 21:18:10</sys_updated_on>
+        <table>x_772069_top_gun_0_customers</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Repairs" max_length="40" name="x_772069_top_gun_0_repairs" sizeclass="0" type="collection">
+    <element extends="task" label="Repairs" max_length="40" name="x_772069_top_gun_0_repairs" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" dependent="payment" dependent_on_field="payment" label="Claim #" max_length="40" name="claim" type="string" use_dependent_field="true"/>
         <element attributes="encode_utf8=false" label="Customer" mandatory="true" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
         <element attributes="omit_sys_original=true" label="Estimate" max_length="20" name="estimate" type="currency"/>

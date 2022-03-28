@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Customers" max_length="40" name="x_772069_top_gun_0_customers" sizeclass="1" type="collection">
+    <element label="Customers" max_length="40" name="x_772069_top_gun_0_customers" sizeclass="15" type="collection">
         <element label="Address" max_length="151" name="address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
         <element label="Customer insurance" max_length="40" name="customer_insurance" type="string"/>

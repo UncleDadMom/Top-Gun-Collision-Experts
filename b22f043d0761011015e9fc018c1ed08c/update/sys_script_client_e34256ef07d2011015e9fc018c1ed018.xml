@@ -3,7 +3,7 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description/>
+        <description>Prevents user from entering </description>
         <field>sys_created_on</field>
         <global>true</global>
         <isolate_script>true</isolate_script>
@@ -14,11 +14,11 @@
    //Require VIN to be either blank or 17 characters
 	var minLength = 17;
 	var control = g_form.getControl('vin');
- if(control && control.value.length < minLength){
+ if(control.value.length > 0 && control.value.length < minLength){
 
   g_form.hideErrorBox('vin');
 
-  g_form.showErrorBox('vin', 'You must type exactly ' + minLength + ' characters in this field. You have entered characters less than ' + minLength);
+  g_form.showErrorBox('vin', 'VIN numbers are 17 characters long. Please verify the VIN number you entered, or leave the field blank.');
 
   return false;
   }
@@ -35,7 +35,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e34256ef07d2011015e9fc018c1ed018</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>VIN length</sys_name>
         <sys_overrides/>
         <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
@@ -43,7 +43,7 @@
         <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
         <sys_update_name>sys_script_client_e34256ef07d2011015e9fc018c1ed018</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-24 07:29:14</sys_updated_on>
+        <sys_updated_on>2022-03-24 18:48:57</sys_updated_on>
         <table>x_772069_top_gun_0_customer_car</table>
         <type>onSubmit</type>
         <ui_type>10</ui_type>

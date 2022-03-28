@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Customer Car" max_length="40" name="x_772069_top_gun_0_customer_car" type="collection">
-        <element label="Belongs to" mandatory="true" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
+    <element label="Customer Car" max_length="40" name="x_772069_top_gun_0_customer_car" sizeclass="5" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Belongs to" mandatory="true" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
         <element label="License plate" max_length="8" name="license_plate" type="string"/>
-        <element display="true" label="Make model" mandatory="true" max_length="32" name="make_model" reference="x_772069_top_gun_0_car_database" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" display="true" label="Make model" mandatory="true" max_length="32" name="make_model" reference="x_772069_top_gun_0_car_database" type="reference"/>
         <element choice="3" default="sedan" label="Style" max_length="40" name="style" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Sedan" sequence="0" value="sedan"/>
