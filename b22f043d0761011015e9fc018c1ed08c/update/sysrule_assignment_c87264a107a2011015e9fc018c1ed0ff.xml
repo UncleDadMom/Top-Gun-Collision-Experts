@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_assignment">
+    <sysrule_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <description/>
+        <group display_value="Top Gun" name="Top Gun">050890a90762011015e9fc018c1ed00e</group>
+        <match_conditions>ALL</match_conditions>
+        <name>Top Gun Repair</name>
+        <order>100</order>
+        <script>/**&#13;
+* Example:&#13;
+* The following script requires personalizing the instance to add the Malware category and the Security assignment group.&#13;
+* if (current.category == "Hardware")&#13;
+*    current.assignment_group.setDisplayValue("Hardware"); &#13;
+* else if (current.category == "Software")&#13;
+*    current.assignment_group.setDisplayValue("Software");&#13;
+* else if (current.category == "Malware")&#13;
+*    current.assignment_group.setDisplayValue("Security");	&#13;
+*&#13;
+* Another Example:&#13;
+* Release Planning Example, which assigns the last person assigned to a release to the current release.&#13;
+* current.release.product.service.assigned_to;&#13;
+*/</script>
+        <sys_class_name>sysrule_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-29 20:43:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c87264a107a2011015e9fc018c1ed0ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Top Gun Repair</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
+        <sys_update_name>sysrule_assignment_c87264a107a2011015e9fc018c1ed0ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-29 20:43:46</sys_updated_on>
+        <table>x_772069_top_gun_0_repairs</table>
+        <user/>
+    </sysrule_assignment>
+</record_update>
