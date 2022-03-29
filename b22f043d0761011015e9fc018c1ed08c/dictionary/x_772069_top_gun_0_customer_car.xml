@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Customer Car" max_length="40" name="x_772069_top_gun_0_customer_car" sizeclass="5" type="collection">
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Belongs to" mandatory="true" max_length="32" name="customer" reference="x_772069_top_gun_0_customers" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Exterior color" max_length="40" name="exterior_color" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Black" sequence="0" value="black"/>
+                <element inactive_on_update="false" label="Blue" sequence="1" value="blue"/>
+                <element inactive_on_update="false" label="Grey" sequence="2" value="grey"/>
+                <element inactive_on_update="false" label="Red" sequence="3" value="red"/>
+                <element inactive_on_update="false" label="White" sequence="4" value="white"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Interior color" max_length="40" name="interior" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Black" sequence="0" value="black"/>
+                <element inactive_on_update="false" label="White" sequence="1" value="white"/>
+                <element inactive_on_update="false" label="Grey" sequence="2" value="grey"/>
+                <element inactive_on_update="false" label="Cream" sequence="3" value="cream"/>
+            </choice>
+        </element>
         <element label="License plate" max_length="8" name="license_plate" type="string"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" display="true" label="Make model" mandatory="true" max_length="32" name="make_model" reference="x_772069_top_gun_0_car_database" type="reference"/>
+        <element label="Mileage in" max_length="40" name="mileage" type="integer"/>
         <element choice="3" default="sedan" label="Style" max_length="40" name="style" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Sedan" sequence="0" value="sedan"/>

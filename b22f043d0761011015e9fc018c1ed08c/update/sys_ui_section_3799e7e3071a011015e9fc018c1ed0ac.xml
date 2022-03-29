@@ -4,13 +4,13 @@
             <element>year</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>d6761ab70712411015e9fc018c1ed03e</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>0305c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>style</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>5a761ab70712411015e9fc018c1ed03e</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>8305c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>customer</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>da761ab70712411015e9fc018c1ed03e</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>0705c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>license_plate</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>5e761ab70712411015e9fc018c1ed03e</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>8705c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>vin</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>de761ab70712411015e9fc018c1ed03e</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>0b05c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>52761ab70712411015e9fc018c1ed03f</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>8b05c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>make_model</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>d2761ab70712411015e9fc018c1ed03f</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>0f05c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,55 @@
             <element>trim</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-24 18:38:59</sys_created_on>
-            <sys_id>56761ab70712411015e9fc018c1ed03f</sys_id>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>8f05c4e90722011015e9fc018c1ed024</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-24 18:38:59</sys_updated_on>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interior</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>0305c4e90722011015e9fc018c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>exterior_color</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>8305c4e90722011015e9fc018c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mileage</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-29 18:32:58</sys_created_on>
+            <sys_id>0705c4e90722011015e9fc018c1ed025</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle Information" display_value="Vehicle Information" name="x_772069_top_gun_0_customer_car" sys_domain="global" view="Default view">3799e7e3071a011015e9fc018c1ed0ac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-29 18:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
