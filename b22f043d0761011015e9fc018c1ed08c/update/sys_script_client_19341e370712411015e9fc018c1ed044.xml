@@ -11,11 +11,14 @@
         <name>Guide to customer car</name>
         <order/>
         <script><![CDATA[function onSubmit() {
+    //var carform = 'https://dev105230.service-now.com/x_772069_top_gun_0_customer_car.do?sys_id=-1&sys_is_list=true&sys_target=x_772069_top_gun_0_customer_car&sysparm_checked_items=&sysparm_fixed_query=&sysparm_group_sort=&sysparm_list_css=&sysparm_query=&sysparm_referring_url=x_772069_top_gun_0_customer_car_list.do&sysparm_target=&sysparm_view=';
+//	var current = g_form.getValue('customer_name');
+//	jslog('current is:' + current);
+	var carform = 'https://dev105230.service-now.com/nav_to.do?uri=x_772069_top_gun_0_customer_car.do?sys_id=-1';
 
     if (g_form.isNewRecord()) {
-        // alert('New customer added, now please go to Input Customer Car to enter vehicle information');
-     
-        g_navigation.openPopup('https://dev105230.service-now.com/x_772069_top_gun_0_customer_car.do?sys_id=-1&sys_is_list=true&sys_target=x_772069_top_gun_0_customer_car&sysparm_checked_items=&sysparm_fixed_query=&sysparm_group_sort=&sysparm_list_css=&sysparm_query=&sysparm_referring_url=x_772069_top_gun_0_customer_car_list.do&sysparm_target=&sysparm_view=', 'New Car Form');
+
+        g_navigation.openPopup(carform, 'New car form');
     }
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -24,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>19341e370712411015e9fc018c1ed044</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Guide to customer car</sys_name>
         <sys_overrides/>
         <sys_package display_value="Top Gun Collision Experts" source="x_772069_top_gun_0">b22f043d0761011015e9fc018c1ed08c</sys_package>
@@ -32,7 +35,7 @@
         <sys_scope display_value="Top Gun Collision Experts">b22f043d0761011015e9fc018c1ed08c</sys_scope>
         <sys_update_name>sys_script_client_19341e370712411015e9fc018c1ed044</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-24 21:18:10</sys_updated_on>
+        <sys_updated_on>2022-03-29 23:19:46</sys_updated_on>
         <table>x_772069_top_gun_0_customers</table>
         <type>onSubmit</type>
         <ui_type>0</ui_type>
